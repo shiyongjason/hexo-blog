@@ -11,5 +11,5 @@ hexo g
 
 hexo d  // 发布
 
-hexo s
-
+hexo s  // 运行
+  
